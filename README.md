@@ -48,8 +48,6 @@ A etapa de EDA buscou compreender o comportamento dos clientes e como ele se rel
 
 ## Análise Exploratória de Dados (EDA)
 
-## 6️⃣ Análise Exploratória (EDA)
-
 **Principais Descobertas:**
 
 | Variável                  | Correlação com Evasão (Churn) | Insight |
