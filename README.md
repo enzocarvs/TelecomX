@@ -1,4 +1,6 @@
 # Análise de Evasão de Clientes (Churn)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg?logo=pandas&logoColor=white) 
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)
 
 ## Visão Geral do Projeto
 
